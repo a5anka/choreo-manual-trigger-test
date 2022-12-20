@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.2.3"
+  name = "manualtest"
+  org = "choreoem"
+  version = "0.1.0"
+
